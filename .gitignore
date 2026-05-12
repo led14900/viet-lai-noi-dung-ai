@@ -1,0 +1,22 @@
+# IDE & OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Agents
+.agents/
+
+# Node (if future build tools)
+node_modules/
+package-lock.json
+
+# Composer
+vendor/
+composer.lock
+
+# WordPress
+wp-config.php
+wp-content/uploads/
